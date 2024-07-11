@@ -11,8 +11,7 @@ O objetivo desse projeto é criar uma API .NET que permite a criação de usuár
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/api-de-Controle-Usuarios.git
-   cd api-de-controle-usuarios
+   git clone https://github.com/JoaoVictorFdeBarros/UsersAPI-.NET.git
    ```
 2. **Configuração do Banco de Dados**
     
