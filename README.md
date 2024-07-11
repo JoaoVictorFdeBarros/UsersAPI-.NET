@@ -1,5 +1,5 @@
 # API de Controle de Usuários
-O objetivo desse projeto é criar uma API .NET que permite a criação de usuários de uma aplicação. Nela é possível realizar a validação de Login, geração de Tokens JWT e criação de politicas de acesso.
+O objetivo desse projeto é criar uma API .NET que permite a criação de usuários de uma aplicação. Nela é possível realizar a validação de Login, geração de Tokens JWT e criação de políticas de acesso.
 
 ## Instalação
 ### Pré-requisitos
